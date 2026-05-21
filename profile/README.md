@@ -1,7 +1,7 @@
 # eSpark Consulting Group
 
-![GitHub followers](https://img.shields.io/github/followers/eSpark-Consultants?style=social)
-![Organization](https://img.shields.io/badge/Organization-eSpark%20Consulting%20Group-blue)
+![GitHub followers](https://img.shields.io/github/followers/eSpark-Cons-Group?style=social)
+![Organization](https://img.shields.io/badge/Organization-eSpark%20Cons%20Group-blue)
 ![Location](https://img.shields.io/badge/Location-Pakistan-green)
 ![Tech](https://img.shields.io/badge/Focus-Hardware%20%26%20Software-orange)
 
